@@ -16,3 +16,12 @@
 
 # phrase = "Giraffe Academy"
 # print(phrase.replace("Giraffe", "Yasmin"))
+
+# from math import *
+
+# my_num = -5
+# print(sqrt(36))
+
+# 50:35
+name = input("Enter your name: ")
+print("Hello " + name)
