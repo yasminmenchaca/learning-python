@@ -22,6 +22,12 @@
 # my_num = -5
 # print(sqrt(36))
 
-# 50:35
-name = input("Enter your name: ")
-print("Hello " + name)
+# name = input("Enter your name: ")
+# age = input("Enter your age: ")
+# print("Hello " + name + "! You are " + age)
+
+# basic calcuator
+# num1 = input("Please enter a number: ")
+# num2 = input("Please enter another number: ")
+# result = float(num1) + float(num2)
+# print(result)
