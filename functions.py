@@ -64,3 +64,19 @@ def get_boundaries(target, margin):
 
 
 low, high = get_boundaries(100, 20)
+
+'''functions review'''
+
+
+def repeat_stuff(stuff, num_repeats=10):
+    return stuff * num_repeats
+
+
+things_one = repeat_stuff("Row ", 3)
+things_two = "Your Boat. "
+
+lyrics = things_one + things_two
+
+song = repeat_stuff(lyrics)
+
+print(song)
