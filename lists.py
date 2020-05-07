@@ -53,3 +53,33 @@ name_and_age = zip(first_names, all_ages)
 # Create a range object called ids with an id number for each customer. Since there are 4 customers, so id values
 # should go from 0 to 3
 ids = range(4)
+
+employees = ['Michael', 'Dwight', 'Jim', 'Pam', 'Ryan', 'Andy', 'Robert']
+
+index4 = employees[4]
+
+print(len(employees))
+
+print(employees[6])
+
+shopping_list = ['eggs', 'butter', 'milk', 'cucumbers', 'juice', 'cereal']
+
+print(len(shopping_list))
+
+last_element = shopping_list[-1]
+
+element5 = shopping_list[5]
+
+print(element5)
+print(last_element)
+
+suitcase = ['shirt', 'shirt', 'pants', 'pants', 'pajamas', 'books']
+
+beginning = suitcase[0:4]
+
+middle = suitcase[2:4]
+
+print(middle)
+
+print(beginning)
+
